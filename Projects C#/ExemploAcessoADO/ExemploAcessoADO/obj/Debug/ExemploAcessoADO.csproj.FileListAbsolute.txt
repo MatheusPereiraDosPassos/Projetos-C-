@@ -1,0 +1,6 @@
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploAcessoADO\ExemploAcessoADO\bin\Debug\ExemploAcessoADO.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploAcessoADO\ExemploAcessoADO\bin\Debug\ExemploAcessoADO.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploAcessoADO\ExemploAcessoADO\bin\Debug\ExemploAcessoADO.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploAcessoADO\ExemploAcessoADO\obj\Debug\ExemploAcessoADO.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploAcessoADO\ExemploAcessoADO\obj\Debug\ExemploAcessoADO.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploAcessoADO\ExemploAcessoADO\obj\Debug\ExemploAcessoADO.pdb
