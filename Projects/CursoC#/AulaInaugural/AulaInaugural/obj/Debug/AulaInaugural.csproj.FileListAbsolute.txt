@@ -1,0 +1,6 @@
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\AulaInaugural\AulaInaugural\bin\Debug\AulaInaugural.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\AulaInaugural\AulaInaugural\bin\Debug\AulaInaugural.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\AulaInaugural\AulaInaugural\bin\Debug\AulaInaugural.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\AulaInaugural\AulaInaugural\obj\Debug\AulaInaugural.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\AulaInaugural\AulaInaugural\obj\Debug\AulaInaugural.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\AulaInaugural\AulaInaugural\obj\Debug\AulaInaugural.pdb

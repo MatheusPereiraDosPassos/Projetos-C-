@@ -1,0 +1,8 @@
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\WindowsForm\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\WindowsForm\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\WindowsForm\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\WindowsForm\Exercicio2\Exercicio2\obj\Debug\Exercicio2.Form1.resources
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\WindowsForm\Exercicio2\Exercicio2\obj\Debug\Exercicio2.Properties.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\WindowsForm\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\WindowsForm\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\WindowsForm\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb

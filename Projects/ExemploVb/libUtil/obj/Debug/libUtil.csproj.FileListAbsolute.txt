@@ -1,0 +1,4 @@
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploVb\libUtil\bin\Debug\libUtil.dll
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploVb\libUtil\bin\Debug\libUtil.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploVb\libUtil\obj\Debug\libUtil.dll
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploVb\libUtil\obj\Debug\libUtil.pdb

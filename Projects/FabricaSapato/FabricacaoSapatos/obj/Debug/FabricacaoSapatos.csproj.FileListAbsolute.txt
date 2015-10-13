@@ -1,0 +1,6 @@
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\FabricaSapato\FabricacaoSapatos\bin\Debug\FabricacaoSapatos.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\FabricaSapato\FabricacaoSapatos\bin\Debug\FabricacaoSapatos.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\FabricaSapato\FabricacaoSapatos\bin\Debug\FabricacaoSapatos.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\FabricaSapato\FabricacaoSapatos\obj\Debug\FabricacaoSapatos.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\FabricaSapato\FabricacaoSapatos\obj\Debug\FabricacaoSapatos.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\FabricaSapato\FabricacaoSapatos\obj\Debug\FabricacaoSapatos.pdb

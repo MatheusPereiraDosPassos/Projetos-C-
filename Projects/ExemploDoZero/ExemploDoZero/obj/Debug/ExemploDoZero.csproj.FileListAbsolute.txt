@@ -1,0 +1,6 @@
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploDoZero\ExemploDoZero\bin\Debug\ExemploDoZero.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploDoZero\ExemploDoZero\bin\Debug\ExemploDoZero.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploDoZero\ExemploDoZero\bin\Debug\ExemploDoZero.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploDoZero\ExemploDoZero\obj\Debug\ExemploDoZero.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploDoZero\ExemploDoZero\obj\Debug\ExemploDoZero.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploDoZero\ExemploDoZero\obj\Debug\ExemploDoZero.pdb

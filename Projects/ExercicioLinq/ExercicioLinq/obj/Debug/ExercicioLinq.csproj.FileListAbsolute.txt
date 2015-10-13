@@ -1,0 +1,5 @@
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExercicioLinq\ExercicioLinq\bin\Debug\ExercicioLinq.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExercicioLinq\ExercicioLinq\bin\Debug\ExercicioLinq.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExercicioLinq\ExercicioLinq\bin\Debug\ExercicioLinq.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExercicioLinq\ExercicioLinq\obj\Debug\ExercicioLinq.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExercicioLinq\ExercicioLinq\obj\Debug\ExercicioLinq.pdb

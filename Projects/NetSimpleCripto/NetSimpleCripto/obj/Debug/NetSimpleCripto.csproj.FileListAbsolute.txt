@@ -1,0 +1,9 @@
+c:\users\vinicius\documents\visual studio 2013\Projects\NetSimpleCripto\NetSimpleCripto\bin\Debug\NetSimpleCripto.exe.config
+c:\users\vinicius\documents\visual studio 2013\Projects\NetSimpleCripto\NetSimpleCripto\bin\Debug\NetSimpleCripto.exe
+c:\users\vinicius\documents\visual studio 2013\Projects\NetSimpleCripto\NetSimpleCripto\bin\Debug\NetSimpleCripto.pdb
+c:\users\vinicius\documents\visual studio 2013\Projects\NetSimpleCripto\NetSimpleCripto\obj\Debug\NetSimpleCripto.csprojResolveAssemblyReference.cache
+c:\users\vinicius\documents\visual studio 2013\Projects\NetSimpleCripto\NetSimpleCripto\obj\Debug\NetSimpleCripto.exe
+c:\users\vinicius\documents\visual studio 2013\Projects\NetSimpleCripto\NetSimpleCripto\obj\Debug\NetSimpleCripto.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\NetSimpleCripto\NetSimpleCripto\bin\Debug\NetSimpleCripto.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\NetSimpleCripto\NetSimpleCripto\obj\Debug\NetSimpleCripto.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\NetSimpleCripto\NetSimpleCripto\obj\Debug\NetSimpleCripto.pdb

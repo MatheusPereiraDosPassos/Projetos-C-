@@ -1,0 +1,6 @@
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\AulaCapturandoTeclado\AulaCapturandoTeclado\bin\Debug\AulaCapturandoTeclado.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\AulaCapturandoTeclado\AulaCapturandoTeclado\bin\Debug\AulaCapturandoTeclado.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\AulaCapturandoTeclado\AulaCapturandoTeclado\bin\Debug\AulaCapturandoTeclado.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\AulaCapturandoTeclado\AulaCapturandoTeclado\obj\Debug\AulaCapturandoTeclado.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\AulaCapturandoTeclado\AulaCapturandoTeclado\obj\Debug\AulaCapturandoTeclado.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\AulaCapturandoTeclado\AulaCapturandoTeclado\obj\Debug\AulaCapturandoTeclado.pdb

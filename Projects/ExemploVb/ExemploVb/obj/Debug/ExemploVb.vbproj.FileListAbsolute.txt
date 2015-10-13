@@ -1,0 +1,12 @@
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploVb\ExemploVb\bin\Debug\ExemploVb.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploVb\ExemploVb\bin\Debug\ExemploVb.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploVb\ExemploVb\bin\Debug\ExemploVb.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploVb\ExemploVb\bin\Debug\ExemploVb.xml
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploVb\ExemploVb\bin\Debug\libUtil.dll
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploVb\ExemploVb\bin\Debug\libUtil.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploVb\ExemploVb\obj\Debug\ExemploVb.vbprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploVb\ExemploVb\obj\Debug\ExemploVb.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploVb\ExemploVb\obj\Debug\ExemploVb.vbproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploVb\ExemploVb\obj\Debug\ExemploVb.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploVb\ExemploVb\obj\Debug\ExemploVb.xml
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploVb\ExemploVb\obj\Debug\ExemploVb.pdb

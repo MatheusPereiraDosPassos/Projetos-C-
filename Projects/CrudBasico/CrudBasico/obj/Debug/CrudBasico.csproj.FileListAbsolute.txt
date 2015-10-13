@@ -1,0 +1,2 @@
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CrudBasico\CrudBasico\obj\Debug\CrudBasico.Properties.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CrudBasico\CrudBasico\obj\Debug\CrudBasico.csproj.GenerateResource.Cache

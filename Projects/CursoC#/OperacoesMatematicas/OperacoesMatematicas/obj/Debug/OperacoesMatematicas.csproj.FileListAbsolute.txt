@@ -1,0 +1,6 @@
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\OperacoesMatematicas\OperacoesMatematicas\bin\Debug\OperacoesMatematicas.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\OperacoesMatematicas\OperacoesMatematicas\bin\Debug\OperacoesMatematicas.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\OperacoesMatematicas\OperacoesMatematicas\bin\Debug\OperacoesMatematicas.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\OperacoesMatematicas.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\OperacoesMatematicas.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\CursoC#\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\OperacoesMatematicas.pdb

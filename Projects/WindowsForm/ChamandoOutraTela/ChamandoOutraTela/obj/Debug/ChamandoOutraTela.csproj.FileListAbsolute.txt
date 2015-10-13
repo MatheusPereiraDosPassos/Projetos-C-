@@ -1,0 +1,9 @@
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\WindowsForm\ChamandoOutraTela\ChamandoOutraTela\bin\Debug\ChamandoOutraTela.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\WindowsForm\ChamandoOutraTela\ChamandoOutraTela\bin\Debug\ChamandoOutraTela.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\WindowsForm\ChamandoOutraTela\ChamandoOutraTela\bin\Debug\ChamandoOutraTela.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\WindowsForm\ChamandoOutraTela\ChamandoOutraTela\obj\Debug\ChamandoOutraTela.Form1.resources
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\WindowsForm\ChamandoOutraTela\ChamandoOutraTela\obj\Debug\ChamandoOutraTela.Properties.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\WindowsForm\ChamandoOutraTela\ChamandoOutraTela\obj\Debug\ChamandoOutraTela.csproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\WindowsForm\ChamandoOutraTela\ChamandoOutraTela\obj\Debug\ChamandoOutraTela.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\WindowsForm\ChamandoOutraTela\ChamandoOutraTela\obj\Debug\ChamandoOutraTela.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\WindowsForm\ChamandoOutraTela\ChamandoOutraTela\obj\Debug\ChamandoOutraTela.OutroForm.resources

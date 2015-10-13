@@ -1,0 +1,6 @@
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploLinq\ExemploLinq\bin\Debug\ExemploLinq.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploLinq\ExemploLinq\bin\Debug\ExemploLinq.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploLinq\ExemploLinq\bin\Debug\ExemploLinq.pdb
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploLinq\ExemploLinq\obj\Debug\ExemploLinq.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploLinq\ExemploLinq\obj\Debug\ExemploLinq.exe
+C:\Users\Matthew\Documents\Visual Studio 2013\Projects\ExemploLinq\ExemploLinq\obj\Debug\ExemploLinq.pdb
